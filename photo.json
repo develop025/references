@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "portrait_photo",
+      "title": [
+        {
+          "language": "ua",
+          "value": "Портретна зйомка"
+        },
+        {
+          "language": "ru",
+          "value": "Портретная сьемка"
+        },
+        {"language": "en",
+          "value": "Portrait"
+        }
+      ],
+      "order":"1"
+    },
+    {
+      "id": "2",
+      "name": "pregnancy_photo",
+      "title": [
+        {
+          "language": "ua",
+          "value": "Фотосесія для вагітних"
+        },
+        {
+          "language": "ru",
+          "value": "Фотосесия для беременных"
+        },
+        {"language": "en",
+          "value": "Pregnancy photo"
+        }
+      ],
+      "order":"2"
+    },
+    {
+      "id": "3",
+      "name": "street_photo",
+      "title": [
+        {
+          "language": "ua",
+          "value": "Вуличне фото"
+        },
+        {
+          "language": "ru",
+          "value": "Фото на улице"
+        },
+        {"language": "en",
+          "value": "Street photo"
+        }
+      ],
+      "order":"3"
+    },
+    {
+      "id": "4",
+      "name": "wedding_photo",
+      "title": [
+        {
+          "language": "ua",
+          "value": "Весільне зйомка"
+        },
+        {
+          "language": "ru",
+          "value": "Свадебная сьемка"
+        },
+        {"language": "en",
+          "value": "Wedding photo"
+        }
+      ],
+      "order":"4"
+    },
+    {
+      "id": "5",
+      "name": "posing",
+      "title": [
+        {
+          "language": "ua",
+          "value": "Виправлення помилок при позуванні"
+        },
+        {
+          "language": "ru",
+          "value": "Исправление ошибок при позировании"
+        },
+        {"language": "en",
+          "value": "Easy fixes for posing"
+        }
+      ],
+      "order":"5"
+    }
+  ]
+} 
