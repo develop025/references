@@ -16,7 +16,8 @@
           "value": "Portrait"
         }
       ],
-      "order":"1"
+      "order":"1",
+      "tag":"referencephotocategorywedding"
     },
     {
       "id": "2",
@@ -34,7 +35,8 @@
           "value": "Pregnancy photo"
         }
       ],
-      "order":"2"
+      "order":"2",
+      "tag":"referencephotocategorywedding"
     },
     {
       "id": "3",
@@ -52,7 +54,8 @@
           "value": "Street photo"
         }
       ],
-      "order":"3"
+      "order":"3",
+      "tag":"referencephotocategorywedding"
     },
     {
       "id": "4",
@@ -70,7 +73,8 @@
           "value": "Wedding photo"
         }
       ],
-      "order":"4"
+      "order":"4",
+      "tag":"referencephotocategorywedding"
     },
     {
       "id": "5",
@@ -88,7 +92,8 @@
           "value": "Easy fixes for posing"
         }
       ],
-      "order":"5"
+      "order":"5",
+      "tag":"referencephotocategorywedding"
     }
   ]
 } 
