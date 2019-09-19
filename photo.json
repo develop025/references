@@ -5,7 +5,7 @@
       "name": "portrait_photo",
       "title": [
         {
-          "language": "ua",
+          "language": "uk",
           "value": "Портретна зйомка"
         },
         {
@@ -25,7 +25,7 @@
       "name": "pregnancy_photo",
       "title": [
         {
-          "language": "ua",
+          "language": "uk",
           "value": "Фотосесія для вагітних"
         },
         {
@@ -45,7 +45,7 @@
       "name": "street_photo",
       "title": [
         {
-          "language": "ua",
+          "language": "uk",
           "value": "Вуличне фото"
         },
         {
@@ -65,7 +65,7 @@
       "name": "wedding_photo",
       "title": [
         {
-          "language": "ua",
+          "language": "uk",
           "value": "Весільне зйомка"
         },
         {
@@ -85,7 +85,7 @@
       "name": "posing",
       "title": [
         {
-          "language": "ua",
+          "language": "uk",
           "value": "Виправлення помилок при позуванні"
         },
         {
